@@ -5,8 +5,8 @@ Open-Source Codes from my Code Monkey's "2D Tower Defense Course" result
 If you played the game and what to check out the source code for learning purpose, <br />
 feel free to download it here. <br />
 
-Codes that I wrote in this game is very different than the course itself,  <br />
-so you need to be careful if you are taking the course and trying to find references in here. <br />
+Codes that I wrote in this game is very different than the instructor's, <br />
+it may not work if you just copy the codes here and paste it on your own project when you taking the course. <br />
 
 **Game's Download Link:** <br />
 (itch.io) https://amuletgames.itch.io/codemonky2dtowerdefensecourseresult
