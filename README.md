@@ -9,7 +9,7 @@ Code that I wrote in this game is very different than the instructor's, <br />
 it may not work if you just copy the codes here and paste it on your own project when you taking the course. <br />
 
 **Game's Download Link:** <br />
-(itch.io) https://amuletgames.itch.io/codemonky2dtowerdefensecourseresult
+(itch.io) https://amuletgames.itch.io/builderdefenderagscut
 
 **Special Metions:**  <br />
 Course instructed by **Code Monkey**. <br />
